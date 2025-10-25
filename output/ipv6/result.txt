@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-23 18:28:43,https://jzb.wwkejishe.top/?id=580$订阅源
+2025-10-25 18:24:50,https://jzb.wwkejishe.top/?id=580$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://jzb.wwkejishe.top/?id=580$订阅源
@@ -15,18 +15,14 @@ CCTV-12,https://jzb.wwkejishe.top/?id=590$订阅源
 CCTV-13,https://jzb.wwkejishe.top/?id=591$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-14,https://jzb.wwkejishe.top/?id=592$订阅源
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-15,https://jzb.wwkejishe.top/?id=593$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 北京卫视,https://jzb.wwkejishe.top/?id=608$订阅源
 湖北卫视,https://jzb.wwkejishe.top/?id=604$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 安徽卫视,https://jzb.wwkejishe.top/?id=612$订阅源
 重庆卫视,https://jzb.wwkejishe.top/?id=607$订阅源
 东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
@@ -52,7 +48,6 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn$订阅源
 凤凰中文,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd$订阅源
 凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
